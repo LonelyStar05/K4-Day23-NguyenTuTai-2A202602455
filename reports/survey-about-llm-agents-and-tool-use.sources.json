@@ -1,0 +1,210 @@
+[
+  {
+    "n": 1,
+    "id": "2601.01743",
+    "url": "https://arxiv.org/abs/2601.01743",
+    "title": "AI Agent Systems: Architectures, Applications, and Evaluation",
+    "date": "2026-01-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2602.12430",
+    "url": "https://arxiv.org/abs/2602.12430",
+    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
+    "date": "2026-02-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2512.22431",
+    "url": "https://arxiv.org/abs/2512.22431",
+    "title": "Monadic Context Engineering",
+    "date": "2025-12-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.11899",
+    "url": "https://arxiv.org/abs/2610.11899",
+    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2607.16066",
+    "url": "https://arxiv.org/abs/2607.16066",
+    "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
+    "date": "2026-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.08082",
+    "url": "https://arxiv.org/abs/2610.08082",
+    "title": "POLAR: Ontology-Guided Risk Prevention for Tool-Calling LLM Agents",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2609.39819",
+    "url": "https://arxiv.org/abs/2609.39819",
+    "title": "Capture the lifecycle: KV Cache management in ReAct Agents with KVTether",
+    "date": "2026-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2608.02650",
+    "url": "https://huggingface.co/papers/2608.02650",
+    "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+    "date": "2026-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2505.15182",
+    "url": "https://huggingface.co/papers/2505.15182",
+    "title": "ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection",
+    "date": "2025-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2511.10037",
+    "url": "https://huggingface.co/papers/2511.10037",
+    "title": "Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning",
+    "date": "2025-11-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2508.16279",
+    "url": "https://huggingface.co/papers/2508.16279",
+    "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications",
+    "date": "2025-08-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2510.20036",
+    "url": "https://huggingface.co/papers/2510.20036",
+    "title": "ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering",
+    "date": "2026-05-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2601.05808",
+    "url": "https://huggingface.co/papers/2601.05808",
+    "title": "EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+    "date": "2026-01-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2602.21320",
+    "url": "https://huggingface.co/papers/2602.21320",
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "date": "2026-02-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2603.12740",
+    "url": "https://huggingface.co/papers/2603.12740",
+    "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+    "date": "2026-03-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2510.06727",
+    "url": "https://huggingface.co/papers/2510.06727",
+    "title": "Scaling LLM Multi-turn RL with End-to-end Summarization-based Context Management",
+    "date": "2025-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2610.12183",
+    "url": "https://huggingface.co/papers/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2606.25819",
+    "url": "https://arxiv.org/abs/2606.25819",
+    "title": "Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability",
+    "date": "2026-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2610.08951",
+    "url": "https://arxiv.org/abs/2610.08951",
+    "title": "ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2610.08098",
+    "url": "https://arxiv.org/abs/2610.08098",
+    "title": "Surviving the Router: Optimizing Skill Injections for Retrieval and Execution",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2610.06401",
+    "url": "https://arxiv.org/abs/2610.06401",
+    "title": "RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2610.09264",
+    "url": "https://arxiv.org/abs/2610.09264",
+    "title": "Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "2610.05640",
+    "url": "https://arxiv.org/abs/2610.05640",
+    "title": "Can CaMeLs Talk? Securing Multi-Agent Systems Against Indirect Prompt Injection Attacks",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 25,
+    "id": "2610.11287",
+    "url": "https://huggingface.co/papers/2610.11287",
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 26,
+    "id": "2610.06496",
+    "url": "https://huggingface.co/papers/2610.06496",
+    "date": "2026-10-05",
+    "source": "hf-daily",
+    "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue"
+  }
+]

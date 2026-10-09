@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2401.03048",
+    "url": "https://huggingface.co/papers/2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2405.15881",
+    "url": "https://huggingface.co/papers/2405.15881",
+    "title": "Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation",
+    "date": "2024-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2502.00972",
+    "url": "https://huggingface.co/papers/2502.00972",
+    "title": "Pushing the Boundaries of State Space Models for Image and Video Generation",
+    "date": "2025-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2312.17172",
+    "url": "https://huggingface.co/papers/2312.17172",
+    "title": "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",
+    "date": "2023-12-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2412.20404",
+    "url": "https://huggingface.co/papers/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2405.05945",
+    "url": "https://huggingface.co/papers/2405.05945",
+    "title": "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers",
+    "date": "2024-05-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2601.05966",
+    "url": "https://huggingface.co/papers/2601.05966",
+    "title": "VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction",
+    "date": "2026-01-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.00812",
+    "url": "https://huggingface.co/papers/2610.00812",
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "date": "2026-09-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2605.07503",
+    "url": "https://arxiv.org/abs/2605.07503",
+    "title": "Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers",
+    "date": "2026-05-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2511.20714",
+    "url": "https://arxiv.org/abs/2511.20714",
+    "title": "Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation",
+    "date": "2025-11-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 12,
+    "id": "2610.03632",
+    "url": "https://huggingface.co/papers/2610.03632",
+    "title": "World Embedding Benchmark",
+    "date": "2026-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2407.12581",
+    "url": "https://huggingface.co/papers/2407.12581",
+    "title": "Towards Understanding Unsafe Video Generation",
+    "date": "2024-07-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2407.06174",
+    "url": "https://huggingface.co/papers/2407.06174",
+    "title": "The Tug-of-War Between Deepfake Generation and Detection",
+    "date": "2024-07-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2503.14378",
+    "url": "https://huggingface.co/papers/2503.14378",
+    "title": "Incredible/Impossible Videos (IPV-Bench)",
+    "date": "2025-03-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "https://example.org/surveys/video-multimodal-generation-2026",
+    "url": "https://example.org/surveys/video-multimodal-generation-2026",
+    "title": "Comprehensive Survey on Video and Multimodal Generation: Foundations, Architectures, and Open Challenges",
+    "date": "2026-01-15",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2512.05564",
+    "url": "https://huggingface.co/papers/2512.05564",
+    "title": "ProPhy: Progressive Physical Alignment for Dynamic World Simulation",
+    "date": "2025-12-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2407.05965",
+    "url": "https://huggingface.co/papers/2407.05965",
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "date": "2024-07-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2402.17139",
+    "url": "https://huggingface.co/papers/2402.17139",
+    "title": "Video as the New Language for Real-World Decision Making",
+    "date": "2024-02-27",
+    "source": "hf-search"
+  }
+]

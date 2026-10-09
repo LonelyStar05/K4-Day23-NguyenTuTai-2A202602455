@@ -1,0 +1,402 @@
+[
+  {
+    "n": 1,
+    "id": "2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2411.15124",
+    "url": "https://arxiv.org/abs/2411.15124",
+    "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "date": "2024-11-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2501.03262",
+    "url": "https://huggingface.co/papers/2501.03262",
+    "title": "REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models",
+    "date": "2025-01-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "url": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "title": "The State of Reinforcement Learning for LLM Reasoning",
+    "date": "2025-04-19",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2501.12948",
+    "url": "https://huggingface.co/papers/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2501.12599",
+    "url": "https://huggingface.co/papers/2501.12599",
+    "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2505.09388",
+    "url": "https://huggingface.co/papers/2505.09388",
+    "title": "Qwen3 Technical Report",
+    "date": "2025-05-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2504.13837",
+    "url": "https://arxiv.org/abs/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2506.14245",
+    "url": "https://arxiv.org/abs/2506.14245",
+    "title": "Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs",
+    "date": "2025-06-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2604.14877",
+    "url": "https://arxiv.org/abs/2604.14877",
+    "title": "Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis",
+    "date": "2026-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "https://benchwiki.vercel.app/benchmarks/aime",
+    "url": "https://benchwiki.vercel.app/benchmarks/aime",
+    "title": "AIME - benchwiki",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2507.10532",
+    "url": "https://arxiv.org/html/2507.10532v2",
+    "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "https://livecodebench.github.io/",
+    "url": "https://livecodebench.github.io/",
+    "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code (project site)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "title": "Why SWE-bench Verified no longer measures frontier coding capabilities | OpenAI",
+    "date": "2026-02-23",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback (InstructGPT)",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "1707.06347",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2411.15124",
+    "url": "https://huggingface.co/papers/2411.15124",
+    "title": "TULU 3: Pushing Frontiers in Open Language Model Post-Training",
+    "date": "2024-11-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2404.10719",
+    "url": "https://huggingface.co/papers/2404.10719",
+    "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+    "date": "2024-04-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2402.01306",
+    "url": "https://arxiv.org/abs/2402.01306",
+    "title": "KTO: Model Alignment as Prospect Theoretic Optimization",
+    "date": "2024-02-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2403.07691",
+    "url": "https://arxiv.org/abs/2403.07691",
+    "title": "ORPO: Monolithic Preference Optimization without Reference Model",
+    "date": "2024-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2607.23802",
+    "url": "https://huggingface.co/papers/2607.23802",
+    "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+    "date": "2026-07-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2505.22453",
+    "url": "https://huggingface.co/papers/2505.22453",
+    "title": "Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO",
+    "date": "2025-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "2505.13427",
+    "url": "https://huggingface.co/papers/2505.13427",
+    "title": "MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision",
+    "date": "2025-05-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "2610.09804",
+    "url": "https://arxiv.org/abs/2610.09804",
+    "title": "BoT-GRPO: Efficient Process-Reward RL for Reasoning via Bag-of-Token Aggregation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2210.10760",
+    "url": "https://huggingface.co/papers/2210.10760",
+    "title": "Scaling Laws for Reward Model Overoptimization",
+    "date": "2022-10-19",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2410.01679",
+    "url": "https://arxiv.org/abs/2410.01679",
+    "title": "VinePPO: Refining Credit Assignment in RL Training of LLMs",
+    "date": "2024-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "2506.10947",
+    "url": "https://arxiv.org/abs/2506.10947",
+    "title": "Spurious Rewards: Rethinking Training Signals in RLVR",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 32,
+    "id": "2505.00551",
+    "url": "https://arxiv.org/abs/2505.00551",
+    "title": "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models",
+    "date": "2025-05-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2503.05132",
+    "url": "https://huggingface.co/papers/2503.05132",
+    "title": "R1-Zero's \"Aha Moment\" in Visual Reasoning on a 2B Non-SFT Model",
+    "date": "2025-03-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 34,
+    "id": "2503.18892",
+    "url": "https://huggingface.co/papers/2503.18892",
+    "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+    "date": "2025-03-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "2507.20534",
+    "url": "https://huggingface.co/papers/2507.20534",
+    "title": "Kimi K2: Open Agentic Intelligence",
+    "date": "2025-07-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "2607.24653",
+    "url": "https://huggingface.co/papers/2607.24653",
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "date": "2026-07-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 37,
+    "id": "2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 38,
+    "id": "2509.02547",
+    "url": "https://huggingface.co/papers/2509.02547",
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+    "date": "2025-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 39,
+    "id": "2509.01055",
+    "url": "https://huggingface.co/papers/2509.01055",
+    "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+    "date": "2025-09-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 40,
+    "id": "2602.04634",
+    "url": "https://huggingface.co/papers/2602.04634",
+    "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
+    "date": "2026-02-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 41,
+    "id": "2506.01713",
+    "url": "https://huggingface.co/papers/2506.01713",
+    "title": "SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "2608.13179",
+    "url": "https://arxiv.org/abs/2608.13179",
+    "title": "CrEST: Verifier-Bounded Credit Assignment for Multi-Turn Multi-step LLM Agents",
+    "date": "2026-08-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 43,
+    "id": "https://epoch.ai/benchmarks/gpqa-diamond",
+    "url": "https://epoch.ai/benchmarks/gpqa-diamond",
+    "title": "GPQA Diamond | Epoch AI",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 44,
+    "id": "https://arcprize.org/arc-agi/2",
+    "url": "https://arcprize.org/arc-agi/2",
+    "title": "ARC-AGI-2 | ARC Prize",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 45,
+    "id": "2504.13837",
+    "url": "https://huggingface.co/papers/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 46,
+    "id": "https://arxiv.org/html/2507.14843v1",
+    "url": "https://arxiv.org/html/2507.14843v1",
+    "title": "The Invisible Leash: Why RLVR May Not Escape Its Origin",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 47,
+    "id": "2510.04028",
+    "url": "https://arxiv.org/abs/2510.04028",
+    "title": "The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View",
+    "date": "2025-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 48,
+    "id": "2603.06619",
+    "url": "https://arxiv.org/abs/2603.06619",
+    "title": "Not all tokens are needed (NAT): token efficient reinforcement learning",
+    "date": "2026-02-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 49,
+    "id": "2608.27420",
+    "url": "https://arxiv.org/abs/2608.27420",
+    "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+    "date": "2026-08-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 50,
+    "id": "https://arxiv.org/html/2605.02964v1",
+    "url": "https://arxiv.org/html/2605.02964v1",
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

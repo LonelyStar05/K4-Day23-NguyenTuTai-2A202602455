@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2505.02309",
+    "url": "https://arxiv.org/abs/2505.02309",
+    "title": "Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques",
+    "date": "2025-05-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2609.03747",
+    "url": "https://arxiv.org/abs/2609.03747",
+    "title": "Closing the Semantic-Edge Gap: Tiny Language Models for 6G Wireless Intelligence",
+    "date": "2026-09-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2402.09748",
+    "url": "https://arxiv.org/abs/2402.09748",
+    "title": "Model Compression and Efficient Inference for Large Language Models: A Survey",
+    "date": "2024-02-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.09639",
+    "url": "https://huggingface.co/papers/2610.09639",
+    "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
+    "date": "2026-10-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2411.13676",
+    "url": "https://arxiv.org/abs/2411.13676",
+    "title": "Hymba: A Hybrid-head Architecture for Small Language Models",
+    "date": "2024-11-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2606.00390",
+    "url": "https://arxiv.org/abs/2606.00390",
+    "title": "Zamba2-VL Technical Report",
+    "date": "2026-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.16825",
+    "url": "https://huggingface.co/papers/2606.16825",
+    "title": "Tying the Loop -- Tied Expert Layers in Mixture-of-Experts Language Models",
+    "date": "2026-06-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2507.22915",
+    "url": "https://huggingface.co/papers/2507.22915",
+    "title": "Theoretical Foundations and Mitigation of Hallucination in Large Language Models",
+    "date": "2025-07-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2510.03847",
+    "url": "https://arxiv.org/abs/2510.03847",
+    "title": "Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade offs",
+    "date": "2025-10-04",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2606.04581",
+    "url": "https://arxiv.org/abs/2606.04581",
+    "title": "Multi-SPIN: Multi-Access Speculative Inference for Cooperative Token Generation at the Edge",
+    "date": "2026-06-03",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2512.06443",
+    "url": "https://huggingface.co/papers/2512.06443",
+    "title": "Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices",
+    "date": "2025-12-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2204.00408",
+    "url": "https://huggingface.co/papers/2204.00408",
+    "title": "Structured Pruning Learns Compact and Accurate Models",
+    "date": "2022-04-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2608.11981",
+    "url": "https://huggingface.co/papers/2608.11981",
+    "title": "Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed",
+    "date": "2026-08-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2511.05502",
+    "url": "https://huggingface.co/papers/2511.05502",
+    "title": "Production-Grade Local LLM Inference on Apple Silicon: A Comparative Study of MLX, MLC-LLM, Ollama, llama.cpp, and PyTorch MPS",
+    "date": "2025-10-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2604.24785",
+    "url": "https://arxiv.org/abs/2604.24785",
+    "title": "Cloud to Edge: Benchmarking LLM Inference On Hardware-Accelerated Single-Board Computers",
+    "date": "2026-04-24",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2610.09307",
+    "url": "https://arxiv.org/abs/2610.09307",
+    "title": "vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2610.11978",
+    "url": "https://arxiv.org/abs/2610.11978",
+    "title": "Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "2610.08917",
+    "url": "https://huggingface.co/papers/2610.08917",
+    "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  }
+]

@@ -1,5 +1,45 @@
 # Deep Research Agent (Deep Agents + Sandbox)
 
+> **Bài nộp - NguyenTuTai (2A202602455).** Phần dưới mục "Bài nộp" mô tả cách chạy bản cài đặt này; phần còn lại là đề bài gốc.
+
+## Bài nộp
+
+### Cài đặt và chạy
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate            # Windows (Linux/macOS: source .venv/bin/activate)
+pip install -r requirements.txt
+cp .env.example .env              # điền khóa: LLM, sandbox, EXA_API_KEY (xem bảng ở mục 4)
+python research.py "survey about world model"
+python self_check.py              # kiểm tra 5 báo cáo + bí mật trong git, không tốn token
+```
+
+- LLM: mọi nhà cung cấp trong `.env.example`. Các báo cáo được sinh bằng `deepseek-v4.1-flash` (qua một cổng tương thích OpenAI: `LAB_BASE_URL` + `LAB_MODEL` + `LAB_API_KEY`) và `gemini-3.5-flash-lite` (`LAB_MODEL=google_genai:gemini-3.5-flash-lite` + `GOOGLE_API_KEY`, cần `langchain-google-genai` để giữ *thought signature* của Gemini 3 khi gọi công cụ). Model nằm trong `model` của từng `meta.json`.
+- Sandbox: `SANDBOX=docker` (container `python:3.12-slim`, `--network none`) hoặc Daytona (`DAYTONA_API_KEY`).
+- Khi chạy, mỗi lần gọi công cụ (của lead và subagent) được in ra stderr để theo dõi tiến trình.
+
+### Đọc `reports/`
+
+Mỗi chủ đề có ba tệp, `<slug>` là tên chủ đề viết thường nối bằng `-`:
+
+| Tệp | Nội dung |
+|---|---|
+| `<slug>.md` | Báo cáo (TL;DR, Background, các chủ đề, Trends and open problems, References) |
+| `<slug>.sources.json` | Danh sách nguồn `{n, id, url, title, date, source}`, khớp `[n]` trong báo cáo |
+| `<slug>.meta.json` | Bằng chứng chạy: model, thời gian, `subagent_calls`, số lần gọi từng công cụ, token của lead, `n_sources`, `source_families` |
+
+Kiểm tra trích dẫn một báo cáo: `python check_citations.py reports/<slug>.md reports/<slug>.sources.json`.
+
+### Điểm chính của bản cài đặt
+
+- `tools.py`: `with_retry` (backoff lũy thừa + jitter, `Retry-After`, chặn `cap`, không ngủ sau lần cuối); giãn cách arXiv ≥ 3 s và Hugging Face ≥ 1 s kể cả khi nhiều researcher chạy song song; phát hiện giới hạn tốc độ của Exa (lỗi JSON-RPC / cờ `_meta`) và retry; che `EXA_API_KEY` trong thông báo lỗi; nguồn đã hết lượt retry thì "nghỉ" 3 phút và trả `ERROR` ngay để agent đổi nguồn thay vì chờ nhiều phút.
+- `agents.py`: lead lập kế hoạch bằng `write_todos`, giao 3-6 câu hỏi con song song, kiểm tra ghi chú, gộp `sources.json`, viết thân báo cáo, chạy `finalize_citations.py` rồi `check_citations.py` trong sandbox tới khi `OK`, nhờ `citation-checker` kiểm tra mẫu. Giới hạn gọi mô hình/công cụ cho lead và từng subagent (`ModelCallLimitMiddleware`, `ToolCallLimitMiddleware`) và tự retry khi gọi mô hình lỗi (`ModelRetryMiddleware`).
+- `research.py`: `recursion_limit=1000`; sau khi agent chạy xong, nếu `sources.json` trong sandbox có ít hơn 3 họ nguồn thì nhắc lead bổ sung họ còn thiếu (tối đa 2 vòng) - mọi sửa chữa vẫn chạy trong sandbox, trước validator. Chạy hỏng: thoát mã 1, không ghi báo cáo nào.
+- `check_citations.py`: đủ 6 quy tắc của GUIDE Phần 4, hiểu trích dẫn nhóm `[1, 2]` / `[1-3]`, bỏ qua khối mã và liên kết `[n](url)`.
+
+---
+
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
 Hình thức: **bài thực hành cá nhân**. Ngôn ngữ lập trình: Python 3.11 trở lên.
